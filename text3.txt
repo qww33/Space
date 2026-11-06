@@ -1,0 +1,205 @@
+В Genshin Impact на данный момент насчитывается 122 игровых персонажа. Ниже представлен полный список, сгруппированный по регионам, к которым они принадлежат.
+
+🏰 Мондштадт
+Альбедо (Albedo)
+
+Эмбер (Amber)
+
+Барбара (Barbara)
+
+Беннет (Bennett)
+
+Дилюк (Diluc)
+
+Диона (Diona)
+
+Дурин (Durin)
+
+Эола (Eula)
+
+Фишль (Fischl)
+
+Джинн (Jean)
+
+Кэйа (Kaeya)
+
+Кли (Klee)
+
+Лайза (Lisa)
+
+Мика (Mika)
+
+Мона (Mona)
+
+Ноэлль (Noelle)
+
+Розария (Rosaria)
+
+Сахароза (Sucrose)
+
+Венти (Venti)
+
+Далья (Dahlia)
+
+⛩️ Инадзума
+Аратаки Итто (Arataki Itto)
+
+Тиори (Chiori)
+
+Горо (Gorou)
+
+Кадзуха (Kaedehara Kazuha)
+
+Камисато Аяка (Kamisato Ayaka)
+
+Камисато Аято (Kamisato Ayato)
+
+Кириара (Kirara)
+
+Куки Синобу (Kuki Shinobu)
+
+Райдэн Сёгун (Raiden Shogun)
+
+Сангономия Кокоми (Sangonomiya Kokomi)
+
+Саю (Sayu)
+
+Тома (Thoma)
+
+Яэ Мико (Yae Miko)
+
+Ёимия (Yoimiya)
+
+Сиканоин Хэйдзо (Shikanoin Heizou)
+
+🏮 Ли Юэ
+Бай Чжу (Baizhu)
+
+Бэй Доу (Beidou)
+
+Чун Юнь (Chongyun)
+
+Гань Юй (Ganyu)
+
+Ху Тао (Hu Tao)
+
+Кэ Цин (Keqing)
+
+Нин Гуан (Ningguang)
+
+Ци Ци (Qiqi)
+
+Шэнь Хэ (Shenhe)
+
+Сян Лин (Xiangling)
+
+Син Цю (Xingqiu)
+
+Сяо (Xiao)
+
+Янь Фэй (Yanfei)
+
+Е Лань (Yelan)
+
+Чжун Ли (Zhongli)
+
+Яо Яо (Yaoyao)
+
+Га Мин (Ga Ming)
+
+Лань Янь (Lan Yan)
+
+🌿 Сумеру
+Аль-Хайтам (Alhaitham)
+
+Кандакия (Candace)
+
+Коллеи (Collei)
+
+Сайно (Cyno)
+
+Дехья (Dehya)
+
+Дори (Dori)
+
+Фарузан (Faruzan)
+
+Кавех (Kaveh)
+
+Лайла (Layla)
+
+Нахида (Nahida)
+
+Нилou (Nilou)
+
+Тигнари (Tighnari)
+
+Сетос (Sethos)
+
+Качина (Kachina)
+
+⚖️ Фонтейн
+Шарлотта (Charlotte)
+
+Шеврёз (Chevreuse)
+
+Клоринда (Clorinde)
+
+Эмили (Emilie)
+
+Эскофье (Escoffier)
+
+Фремине (Freminet)
+
+Фурина (Furina)
+
+Лини (Lyney)
+
+Линетт (Lynette)
+
+Навия (Navia)
+
+Нёвиллет (Neuvillette)
+
+Сиджвин (Sigewinne)
+
+Вриеза (Varesa)
+
+Руму (Ruma)
+
+🔥 Натлан
+Часка (Chasca)
+
+Ситлали (Citlali)
+
+Кинич (Kinich)
+
+Мавуика (Mavuika)
+
+Муалани (Mualani)
+
+Оророн (Ororon)
+
+Ксуилол (Xilonen)
+
+Иансан (Iansan)
+
+Вареса (Varesa)
+
+Кухул Ахав (K'uhul Ajaw)
+
+❄️ Снежная и другие регионы
+Алёша (Alyosha)
+
+Арлекино (Arlecchino)
+
+Коломбина (Columbina)
+
+Тарталья (Tartaglia / Childe)
+
+Паймон (Paimon) — компаньон, не является играбельным персонажем.
+
+🌍 Разное
+Путешественник (Traveler) — может менять элемент (Анемо, Гео, Электро, Дендро, Гидро, Пиро, Крио).
+
+Алой (Aloy) — кроссовер-персонаж из Horizon Zero Dawn, больше не доступен для получения.
